@@ -76,3 +76,5 @@ Based on:
 https://github.com/rajpara11/phonegap-plugins/tree/master/Android/AdMobPlugin  
 https://github.com/rajpara11/phonegap-plugins/tree/master/iOS/AdMobPlugin  
 with Interstitials support
+
+Interstitials support improve.
